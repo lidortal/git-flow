@@ -1,0 +1,4 @@
+inApprovals:
+  COLLABORATOR: 2
+requiredLabels:
+- merge
